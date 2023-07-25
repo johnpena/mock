@@ -4,7 +4,7 @@
 // you may not use this file except in compliance with the License.
 // You may obtain a copy of the License at
 //
-//     http://www.apache.org/licenses/LICENSE-2.0
+//	http://www.apache.org/licenses/LICENSE-2.0
 //
 // Unless required by applicable law or agreed to in writing, software
 // distributed under the License is distributed on an "AS IS" BASIS,
@@ -16,7 +16,7 @@ package faux
 import (
 	"log"
 
-	"github.com/golang/mock/mockgen/internal/tests/import_embedded_interface/other/ersatz"
+	"github.com/johnpena/mock/mockgen/internal/tests/import_embedded_interface/other/ersatz"
 )
 
 type Foreign interface {

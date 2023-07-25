@@ -17,11 +17,10 @@ package gomock_test
 import (
 	"fmt"
 	"reflect"
+	"strings"
 	"testing"
 
-	"strings"
-
-	"github.com/golang/mock/gomock"
+	"github.com/johnpena/mock/gomock"
 )
 
 type ErrorReporter struct {

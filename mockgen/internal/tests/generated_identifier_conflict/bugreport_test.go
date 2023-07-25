@@ -1,8 +1,9 @@
 package bugreport
 
 import (
-	"github.com/golang/mock/gomock"
 	"testing"
+
+	"github.com/johnpena/mock/gomock"
 )
 
 func TestExample_Method(t *testing.T) {

@@ -7,8 +7,8 @@ package mock_pkg
 import (
 	reflect "reflect"
 
-	gomock "github.com/golang/mock/gomock"
-	pkg "github.com/golang/mock/mockgen/internal/tests/internal_pkg/subdir/internal/pkg"
+	gomock "github.com/johnpena/mock/gomock"
+	pkg "github.com/johnpena/mock/mockgen/internal/tests/internal_pkg/subdir/internal/pkg"
 )
 
 // MockArg is a mock of Arg interface.

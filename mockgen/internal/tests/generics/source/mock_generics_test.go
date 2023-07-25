@@ -7,9 +7,9 @@ package source
 import (
 	reflect "reflect"
 
-	gomock "github.com/golang/mock/gomock"
-	generics "github.com/golang/mock/mockgen/internal/tests/generics"
-	other "github.com/golang/mock/mockgen/internal/tests/generics/other"
+	gomock "github.com/johnpena/mock/gomock"
+	generics "github.com/johnpena/mock/mockgen/internal/tests/generics"
+	other "github.com/johnpena/mock/mockgen/internal/tests/generics/other"
 )
 
 // MockBar is a mock of Bar interface.
